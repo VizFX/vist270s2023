@@ -40,7 +40,7 @@ This course emphasizes hands-on experience to introduce the fundamentals of visu
 
 
 ### Teaching Team 
--  Instructor: Dr. Licia He 
+-  Instructor: Michael Ringham 
 -  Teaching Assistant: Varda Grover
 -  Teaching Assistant:  Madhurya Ratnakar
 -   Teaching Assistant: Aayushi Gandhi 

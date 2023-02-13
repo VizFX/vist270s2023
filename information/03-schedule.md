@@ -30,18 +30,18 @@ Acronym/abbreviation/info:
 | ----------- | ----------- |   ----------- | | ----------- | ----------- |   ----------- |    ----------- |
 | 1 |1/16:   MLK Day |  1/17:   |  1/18: |  1/19:  | 1/20: |
 | 2 |1/23:  Q1|  1/24: |  1/25: |  1/26:  |  1/27:  |
-| 3 |1/30: Q2 |  1/31: HW1 Due|  2/1: |  2/2: HW1 Review Due |  2/3:  |
-| 4 |2/6:  Q3|  2/7: HW2 Due|  2/8: Due to PVFA creative works day, Wed. lab is office hours open to all sessions |  2/9:  HW2 Review Due |  2/10: PVFA Creative Works Day, No Lab  |
-| 5 |2/13:  Q4|  2/14: HW3 Due|  2/15: |  2/16:  HW3 Review Due  |  2/17:  |
-| 6 |2/20:  Q5|  2/21: HW4 Due|  2/22: |  2/23:   HW4 Review Due |  2/24:  |
-| 7 |2/27: Q6|  2/28: |  3/1: |  3/2:   HW4 Review Due |  3/3:  |
-| 8 |3/6:  Q7|  3/7:  HW5 Due|  3/8: |  3/9:HW5 Review Due   |  3/10:  |
+| 3 |1/30: Q2 |  1/31: HW1 Due|  2/1: Snow Day |  2/2: HW1 Review Due |  2/3:  |
+| 4 |2/6:  Q3|  2/7: |  2/8: Due to PVFA creative works day, Wed. lab is office hours open to all sessions |  2/9:  HW2 Review Due |  2/10: PVFA Creative Works Day, No Lab  |
+| 5 |2/13:  Q4|  2/14: HW2 Due|  2/15: |  2/16:  HW2 Review Due  |  2/17:  |
+| 6 |2/20:  Q5|  2/21: HW3 Due|  2/22: |  2/23:   HW3 Review Due |  2/24:  |
+| 7 |2/27: Q6|  2/28: HW4 Due|  3/1: |  3/2:   HW4 Review Due |  3/3:  |
+| 8 |3/6:  Q7|  3/7:  |  3/8: |  3/9:  |  3/10:  |
 | 9 |3/13:  Spring break | 3/14: Spring break  |  3/15: Spring break |  3/16:Spring break   |  3/17:  Spring break |
-| 10 |3/20: | 3/21:  |  3/22: |  3/23:   |  3/24:  |
-| 11 |3/27:  Q8| 3/28: HW6 Due|  3/29: |  3/30: HW6 Review Due |  3/31:  |
-| 12 |4/3:  Q9|  4/4: |  4/5: |  4/6:  |  4/7: Reading day, no class  |
-| 13 |4/10:  Q10| 4/11: HW7 Due|  4/12: |  4/13: HW7 Review Due |  4/14:  |
-| 14 |4/17:  Q11| 4/15:  |  4/16: |  4/17:  |  4/18:  |
+| 10 |3/20: | 3/21: HW5 Due |  3/22: |  3/23: HW5 Review Due  |  3/24:  |
+| 11 |3/27:  Q8| 3/28: |  3/29: |  3/30: |  3/31:  |
+| 12 |4/3:  Q9|  4/4: HW6 Due|  4/5: |  4/6:  HW6 Review Due |  4/7: Reading day, no class  |
+| 13 |4/10:  Q10| 4/11:|  4/12: |  4/13: |  4/14:  |
+| 14 |4/17:  Q11| 4/18:  HW7 Due |  4/19: |  4/20:  HW7 Review Due |  4/21:  |
 | 15 |4/24:  Q12| 4/25: HW8 Due|  4/26: |  4/27: Last lecture, HW8 Review Due |  4/28:  |
 | 16 |5/1:  |  5/2: Redefined Friday|  5/3: Final project Due|  5/4: |  5/5:  |
 | 17 |5/8: Final Grades on Canvas |   5/9: |  5/10: Grades Due|  5/11:  |  5/12:  |

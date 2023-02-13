@@ -5,10 +5,10 @@ title: Contact
 ---
 
 ### Teaching Team 
--  Instructor: *Dr. Licia He* 
-	- ![](assets/he_shiqing_100416_051%20-%20Shiqing%20(Licia)%20He_cropped.jpg)
+-  Instructor: *Michael Ringham* 
+{%comment%}	- ![](assets/he_shiqing_100416_051%20-%20Shiqing%20(Licia)%20He_cropped.jpg)
 	- Dr. Licia He is a generative artist and a human-computer interaction researcher. Her research lab, the Generative Craft Lab, is dedicated to the experimentations with digital art, traditional craft, and creative fabrication.
-
+{%endcomment%}
 
 	
 -  Teaching Assistant: *Aayushi Gandhi* 
