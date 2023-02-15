@@ -49,9 +49,13 @@ This course emphasizes hands-on experience to introduce the fundamentals of visu
 
 - [Canvas](https://canvas.tamu.edu/courses/210252)
 - [Piazza](https://piazza.com/class/lcuvsl24x5z7ar/) 
+- [Grade change request](https://docs.google.com/forms/d/e/1FAIpQLScH2VzGon1jmW85VXP5Rh5lB_lBUSf-0RIGMav8g0GHb2lcvQ/viewform?usp=sharing)
+- [Time sensitive request](https://docs.google.com/forms/d/e/1FAIpQLSfJGutvWBhGp169KKBq5kGEpZm9uPZyCx-zbI3_uy8aiENikA/viewform?usp=sharing)
+
+{%comment%}
 - [Grade change request](https://docs.google.com/forms/d/e/1FAIpQLSehOoE_0yTRLDM5JxFbv1fPajfRlCwNax1ExpBcpNJkLwle-Q/viewform?usp=sharing)
 - [Time sensitive request](https://docs.google.com/forms/d/e/1FAIpQLSdcI2vYaaFRqoeHNkC4_fMJQFsZmsTTVosbSGRL_koCfR3f-g/viewform?usp=sharing)
-
+{%endcomment%}
 
 
 
