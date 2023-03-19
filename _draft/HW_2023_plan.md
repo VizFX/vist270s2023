@@ -1,4 +1,4 @@
-HW1:
+W1:
    1. coordinate system 
    2. replicate coordinate system 
 HW2:(2 weeks)
