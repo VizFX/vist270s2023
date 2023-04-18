@@ -53,11 +53,19 @@ Write one of multiple python script(s) that generate the game using Pygame. How 
 - Include comments for each section to explain what the code is doing.
 
 ## Task 3: Document the game  <span style="color:#0000ff;"> 0.5%  </span>
+In the paragraph, include
+
+- The name of your game.
+- escription of your game design.
+- Inspiration for your game design.
+- Challenges encountered in implementing your game.
 
 ## Bonus Opportunity <span style="color:#0000ff;"> 0.1%-1.0%  </span> :
 If we love your game design and implementation, you will get bonus.
 
+
 --------- End of the Optional Final Project -------------
+
 
 ## Submission Instruction
 Upload the following files to canvas (without compressing/zipping them)
