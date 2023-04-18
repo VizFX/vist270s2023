@@ -54,7 +54,8 @@ Write one of multiple python script(s) that generate the game using Pygame. How 
 
 ## Task 3: Document the game  <span style="color:#0000ff;"> 0.5%  </span>
 
-## Bonus Opportunity 1 0.1-1.0% : If we love your game design and implementation, you will get bonus.
+## Bonus Opportunity <span style="color:#0000ff;"> 0.1%-1.0%  </span> :
+If we love your game design and implementation, you will get bonus.
 
 --------- End of the Optional Final Project -------------
 
