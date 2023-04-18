@@ -56,7 +56,7 @@ Write one of multiple python script(s) that generate the game using Pygame. How 
 In the paragraph, include
 
 - The name of your game.
-- escription of your game design.
+- Description of your game design.
 - Inspiration for your game design.
 - Challenges encountered in implementing your game.
 
